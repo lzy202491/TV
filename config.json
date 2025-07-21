@@ -32,6 +32,14 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
+    "piaoling": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "飘零"
+    },
+    "sandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电"
+    },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
@@ -76,6 +84,38 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷"
+    },
+    "tiankong": {
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "name": "天空"
+    },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子"
+    },
+    "aidan": {
+      "api": "https://lovedan.net/api.php/provide/vod",
+      "name": "艾丹"
+    },
+    "shandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电"
+    },
+    "hongniu": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "红牛"
+    },
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速博"
+    },
+    "tianyi": {
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod",
+      "name": "天翼"
     }
   }
 }
