@@ -113,6 +113,10 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "速博"
     },
+    "fengcao": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢"
+    },
     "tianyi": {
       "api": "https://www.911ysw.top/tianyi.php/provide/vod",
       "name": "天翼"
